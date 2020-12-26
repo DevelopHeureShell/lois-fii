@@ -1,0 +1,38 @@
+FÉDÉRATION INTERSERVICES D'INFORMATIQUE
+CODE GÉNÉRAL DE LA FÉDÉRATION
+DANS SA VERSION 2.0.0, MAJEURE 2, MINEURE 0, MINIME 0.
+PRIME SUR TOUTE LOI OU RÈGLE AU SEIN DE LA FÉDÉRATION INTERSERVICES D'INFORMATIQUE ET DES SERVICES FÉDÉRÉS.
+
+Le présent Code Général a été voté et approuvé par le Conseil Fédéral "2021" le ... et a été promulgué par le Président de la Fédération ... le ... dans les
+règles fixées par le premier Code Général de la Fédération, catégorie "DE LA RÉVISION DU PRÉSENT CODE GÉNÉRAL".
+
+Le présent Code est divisé en CATÉGORIES numérotées, elles-mêmes divisées en ARTICLES numérotés et éventuellement en SOUS-ARTICLES numérotés en cas de besoin.
+Lorsque l'on veut se référer à un article du Code Général de la Fédération, on le fait de la manière suivante :
+CG2(2 pour la deuxième édition du Code Général)-[Numéro de la catégorie]-[Numéro de l'article].[Numéro du sous-article (facultatif)].
+
+I - DE LA RÉVISION DU PRÉSENT CODE GÉNÉRAL
+  1. Il existe deux types de modification du Code Général de la Fédération.
+    1.1 La modification orthographique.
+    1.2 La modification du texte.
+  2. Tout membre du Conseil Fédéral peut déposer une proposition de modification du Code Général de la Fédération.
+  3. En fonction du type de modification, la procédure est différente :
+    3.1 En cas de modification orthographique, le membre déposant la demande le fait directement au Président de la Fédération. Ce dernier se charge de vérifier
+    qu'aucune modification de l'interprétation du texte n'a eu lieu, puis le cas échéant promulgue le nouveau Code Général de la Fédération en incrémentant le numéro
+    "minime" de la version promulguée.
+    3.2 En cas de modification de l'interprétation du texte ou de manière générale dans tout autre cas que celui mentionné à CG2-I-3.1, la procédure à suivre est la suivante :
+        - Le membre du Conseil Fédéral dépose sa demande auprès du Président de la Fédération.
+        - Le Président de la Fédération propose le texte au Conseil Fédéral, en laissant une période pour le dépôt d'amendement d'au minimum 1 mois et au maximum 4 mois à compter de la date de proposition du nouveau Code Général au Conseil Fédéral. Cette étape doit être effectuée au maximum deux semaines après la déposition de la demande auprès du Président de la Fédération, faute de quoi ce dernier se met en infraction.
+        - Après la phase de dépôt des amendements, le Président de la Fédération fixe une date où seront votés par le Conseil Fédéral les amendements dans l'ordre de dépôt de ceux-ci. Cette date doit être fixée dans les 31 jours suivant la clôture de la phase de dépôt des amendements, sans quoi le Président de la Fédération se met en infraction.
+        - Lors de la séance, tous les amendements sont votés. Un amendement est adopté s'il a reçu au moins 51% des suffrages, sans quoi il est refusé.
+        - Une fois la séance terminée, le Président de la Fédération organise dans les 15 jours suivants une séance de vote par le Conseil Fédéral du nouveau Code Général. La non-organisation de ce vote dans les délais est une infraction.
+        - Le nouveau Code Général est considéré comme adopté si au moins 51% des suffrages sont POUR. Dans les autres cas, le Code Général est considéré comme refusé. Le Président de la Fédération peut s'il le souhaite relancer le processus depuis le début où depuis la phase de vote du texte amendé autant de fois qu'il le souhaite, cependant il n'y est jamais obligé.
+        - En cas d'adoption du nouveau Code Général, le Président de la Fédération le promulgue dans les 31 jours suivant sa date d'adoption par le Conseil Fédéral. Si cette étape n'est pas faite à temps, le Président de la Fédération commet une infraction.
+II - DU PRÉSIDENT DE LA FÉDÉRATION INTERSERVICES D'INFORMATIQUE
+  1. Le Président de la Fédération Interservices d'Informatique a comme dénominations officielles "Président de la Fédération Interservices d'Informatique", "Président de la Fédération" et "Président". On se réfère à lui dans les textes officiels par l'un de ces termes.
+  2. Le Président de la Fédération est l'owner du quartier général de la Fédération et des différents Hubs de la Fédération.
+  3. Le Président de la Fédération est considéré comme membre du Conseil Fédéral et a les mêmes droits, devoirs et fonctions que n'importe quel membre de celui-ci. Cependant, il ne possède aucun droit de vote à l'exception des votes pour élire des personnes à des fonctions (par exemple une élection présidentielle).
+  4. Les modalités à propos de l'élection du Président de la Fédération sont les suivantes :
+    4.1 Les élections du Président de la Fédération ont lieu en Décembre de l'année précédant l'année civile où exercera le président élu. La date exacte est fixée par le Président de la Fédération sortant en fonction des disponibilités des membres du Conseil Fédéral.
+    4.2 Le Président de la Fédération sortant peut se représenter et il n'y a pas de limite de mandat. Il peut également voter comme n'importe quel autre membre du Conseil Fédéral.
+    
+ 
