@@ -1,6 +1,6 @@
 FÉDÉRATION INTERSERVICES D'INFORMATIQUE
 CODE GÉNÉRAL DE LA FÉDÉRATION
-DANS SA VERSION 2.0.0, MAJEURE 2, MINEURE 0, MINIME 0.
+DANS SA VERSION 2.0, MAJEURE 2, MINEURE 0.
 PRIME SUR TOUTE LOI OU RÈGLE AU SEIN DE LA FÉDÉRATION INTERSERVICES D'INFORMATIQUE ET DES SERVICES FÉDÉRÉS.
 
 Le présent Code Général a été voté et approuvé par le Conseil Fédéral "2021" le ... et a été promulgué par le Président de la Fédération ... le ... dans les
@@ -27,12 +27,30 @@ I - DE LA RÉVISION DU PRÉSENT CODE GÉNÉRAL
         - Une fois la séance terminée, le Président de la Fédération organise dans les 15 jours suivants une séance de vote par le Conseil Fédéral du nouveau Code Général. La non-organisation de ce vote dans les délais est une infraction.
         - Le nouveau Code Général est considéré comme adopté si au moins 51% des suffrages sont POUR. Dans les autres cas, le Code Général est considéré comme refusé. Le Président de la Fédération peut s'il le souhaite relancer le processus depuis le début où depuis la phase de vote du texte amendé autant de fois qu'il le souhaite, cependant il n'y est jamais obligé.
         - En cas d'adoption du nouveau Code Général, le Président de la Fédération le promulgue dans les 31 jours suivant sa date d'adoption par le Conseil Fédéral. Si cette étape n'est pas faite à temps, le Président de la Fédération commet une infraction.
+
 II - DU PRÉSIDENT DE LA FÉDÉRATION INTERSERVICES D'INFORMATIQUE
   1. Le Président de la Fédération Interservices d'Informatique a comme dénominations officielles "Président de la Fédération Interservices d'Informatique", "Président de la Fédération" et "Président". On se réfère à lui dans les textes officiels par l'un de ces termes.
   2. Le Président de la Fédération est l'owner du quartier général de la Fédération et des différents Hubs de la Fédération.
   3. Le Président de la Fédération est considéré comme membre du Conseil Fédéral et a les mêmes droits, devoirs et fonctions que n'importe quel membre de celui-ci. Cependant, il ne possède aucun droit de vote à l'exception des votes pour élire des personnes à des fonctions (par exemple une élection présidentielle).
-  4. Les modalités à propos de l'élection du Président de la Fédération sont les suivantes :
-    4.1 Les élections du Président de la Fédération ont lieu en Décembre de l'année précédant l'année civile où exercera le président élu. La date exacte est fixée par le Président de la Fédération sortant en fonction des disponibilités des membres du Conseil Fédéral.
-    4.2 Le Président de la Fédération sortant peut se représenter et il n'y a pas de limite de mandat. Il peut également voter comme n'importe quel autre membre du Conseil Fédéral.
-    
- 
+  4. Le Président de la Fédération possède un droit de veto sur toute action prise par toutes les différentes instances de la Fédération, s'il peut prouver que l'action ou la loi va à l'encontre d'une loi supérieure dans la hiérarchie des lois (INSÉRER RÉFÉRENCE CATÉGORIE HIÉRARCHIE DES LOIS).
+
+III - DE LA DÉSIGNATION DES INSTANCES FÉDÉRALES
+  1. Les modalités à propos de l'élection du Président de la Fédération sont les suivantes :
+    1.1 Les élections du Président de la Fédération ont lieu en Décembre de l'année précédant l'année civile où exercera le président élu. La date exacte est fixée par le Président de la Fédération sortant en fonction des disponibilités des membres du Conseil Fédéral.
+    1.2 Tout membre du Conseil Fédéral est électeur et éligible à la présidence de la Fédération. Ce droit ne peut en aucun cas être retiré.
+    1.3 Le Président de la Fédération sortant peut se représenter et il n'y a pas de limite de mandat. Il peut également voter comme n'importe quel autre membre du Conseil Fédéral.
+    1.4 Les candidatures sont déposées au maximum 24 heures avant le début des votes.
+    1.5 Les débats pour les présidentielles sont organisés de manière informelle, aucune règle ne les régit.
+    1.6 Le Président de la Fédération entrant est élu à la majorité absolue. Si cette règle ne permet pas de désigner un nouveau Président, alors un deuxième tour est organisé entre les deux candidats ayant recueilli le plus de suffrages au premier tour. Dans ce dernier cas, le Président est élu à la majorité relative.
+    1.7 Le Président sortant continue d'exercer ses fonctions jusqu'au 31 décembre à 23h59 UTC+1. La passation de pouvoir s'effectue dans la journée du 1er janvier.
+    1.8 En cas de contestation de l'élection, le Conseil des Owners est chargé de décider si l'élection est valable ou non. En cas de non validité, une élection est réorganisée et est supervisée par le Conseil des Owners, qui récupère les pouvoirs du Président de la Fédération en matière d'organisation des élections.
+  2. Les modalités à propos de la désignation des membres du Conseil Fédéral sont les suivantes :
+    2.1 Le Conseil Fédéral est composé des owners des services fédérés ainsi que de tous les membres du service d'administration et de modération de chaque service fédéré.
+    2.2 Tous les ans, le 30 novembre, les owners de chaque service fédéré transmet la liste des personnes faisant partie de son service de modération et d'administration. Un membre est considéré comme faisant partie du service de modération et d'administration à partir du moment où il a les permissions de bannir, expulser, réduire au silence et avertir les utilisateurs du service. En cas de non transmission de cette liste ou de transmission incomplète, l'owner commet une infraction.
+    2.3 Le Président de la Fédération intronise les nouveaux membres du Conseil Fédéral et démet de leurs fonctions les anciens membres au plus tard le 10 décembre. Si à cette date les nouveaux membres du Conseil Fédéral ne sont pas intronisés et les anciens membres déchus, le Président de la Fédération est en infraction.
+  3. Le Conseil des Owners est constitué des owners de tous les services fédérés.
+
+IV - DU CONSEIL FÉDÉRAL DE LA FÉDÉRATION INTERSERVICES D'INFORMATIQUE
+  1. Le Conseil Fédéral de la Fédération Interservices d'Informatique a comme dénominations officielles "Conseil Fédéral de la Fédération Interservices d'Informatique", "Conseil Fédéral", "Grand Conseil" ou "Conseil d'Administration". On se réfère à lui dans les textes officiels par l'un de ces termes.
+  2. Le Conseil Fédéral détient le pouvoir législatif fédéral. Il est le seul habilité à voter et décider des lois fédérales.
+  3. Le Conseil Fédéral peut émettre des décisions qui ne prennent pas effet sous forme de lois, ce sont les ordonnances du Conseil Fédéral.
