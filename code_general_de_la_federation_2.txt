@@ -3,12 +3,20 @@ CODE GÉNÉRAL DE LA FÉDÉRATION
 DANS SA VERSION 2.0, MAJEURE 2, MINEURE 0.
 PRIME SUR TOUTE LOI OU RÈGLE AU SEIN DE LA FÉDÉRATION INTERSERVICES D'INFORMATIQUE ET DES SERVICES FÉDÉRÉS.
 
+PRÉAMBULE :
+
 Le présent Code Général a été voté et approuvé par le Conseil Fédéral "2021" le ... et a été promulgué par le Président de la Fédération ... le ... dans les
 règles fixées par le premier Code Général de la Fédération, catégorie "DE LA RÉVISION DU PRÉSENT CODE GÉNÉRAL".
 
-Le présent Code est divisé en CATÉGORIES numérotées, elles-mêmes divisées en ARTICLES numérotés et éventuellement en SOUS-ARTICLES numérotés en cas de besoin.
+Le Code est divisé en CATÉGORIES numérotées, elles-mêmes divisées en ARTICLES numérotés et éventuellement en SOUS-ARTICLES numérotés en cas de besoin.
 Lorsque l'on veut se référer à un article du Code Général de la Fédération, on le fait de la manière suivante :
 CG2(2 pour la deuxième édition du Code Général)-[Numéro de la catégorie]-[Numéro de l'article].[Numéro du sous-article (facultatif)].
+
+Différentes instances existent au sein de la Fédération Interservices d'Informatique :
+- La Présidence de la Fédération.
+- Le Conseil Fédéral.
+- Le Conseil des Owners.
+- Les différents services fédérés.
 
 I - DE LA RÉVISION DU PRÉSENT CODE GÉNÉRAL
   1. Il existe deux types de modification du Code Général de la Fédération.
