@@ -12,11 +12,16 @@ Le Code est divisé en CATÉGORIES numérotées, elles-mêmes divisées en ARTIC
 Lorsque l'on veut se référer à un article du Code Général de la Fédération, on le fait de la manière suivante :
 CG2(2 pour la deuxième édition du Code Général)-[Numéro de la catégorie]-[Numéro de l'article].[Numéro du sous-article (facultatif)].
 
+La Fédération Interservices d'Informatique est une fédération de services divers ayant pour thème l'informatique en général ou des domaines précis de ce vaste champ. Elle ne reconnaît aucune autre loi que les lois françaises et internationales, ainsi que les lois des pays où elle pourrait être amenée à être présente et ses propres lois. Elle ne reconnaît de ce fait aucun culte et aucune morale, et ce dans n'importe quelle décision prise à n'importe quel niveau.
+Le droit à la liberté d'expression et à un jugement totalement impartial n'est pas reconnu officiellement au sein de la Fédération, cependant ses différentes instances sont fortement invitées à prendre des mesures allant dans le sens de ces principes.
+
 Différentes instances existent au sein de la Fédération Interservices d'Informatique :
 - La Présidence de la Fédération.
 - Le Conseil Fédéral.
 - Le Conseil des Owners.
-- Les différents services fédérés.
+- Les différents services fédérés et services de modération fédérés.
+- Les commissions de Jugement et de Cassation.
+
 
 I - DE LA RÉVISION DU PRÉSENT CODE GÉNÉRAL
   1. Il existe deux types de modification du Code Général de la Fédération.
@@ -36,27 +41,25 @@ I - DE LA RÉVISION DU PRÉSENT CODE GÉNÉRAL
         - Le nouveau Code Général est considéré comme adopté si au moins 51% des suffrages sont POUR. Dans les autres cas, le Code Général est considéré comme refusé. Le Président de la Fédération peut s'il le souhaite relancer le processus depuis le début où depuis la phase de vote du texte amendé autant de fois qu'il le souhaite, cependant il n'y est jamais obligé.
         - En cas d'adoption du nouveau Code Général, le Président de la Fédération le promulgue dans les 31 jours suivant sa date d'adoption par le Conseil Fédéral. Si cette étape n'est pas faite à temps, le Président de la Fédération commet une infraction.
 
+
 II - DU PRÉSIDENT DE LA FÉDÉRATION INTERSERVICES D'INFORMATIQUE
   1. Le Président de la Fédération Interservices d'Informatique a comme dénominations officielles "Président de la Fédération Interservices d'Informatique", "Président de la Fédération" et "Président". On se réfère à lui dans les textes officiels par l'un de ces termes.
   2. Le Président de la Fédération est l'owner du quartier général de la Fédération et des différents Hubs de la Fédération.
   3. Le Président de la Fédération est considéré comme membre du Conseil Fédéral et a les mêmes droits, devoirs et fonctions que n'importe quel membre de celui-ci. Cependant, il ne possède aucun droit de vote à l'exception des votes pour élire des personnes à des fonctions (par exemple une élection présidentielle).
   4. Le Président de la Fédération possède un droit de veto sur toute action prise par toutes les différentes instances de la Fédération, s'il peut prouver que l'action ou la loi va à l'encontre d'une loi supérieure dans la hiérarchie des lois (INSÉRER RÉFÉRENCE CATÉGORIE HIÉRARCHIE DES LOIS).
-
-III - DE LA DÉSIGNATION DES INSTANCES FÉDÉRALES
-  1. Les modalités à propos de l'élection du Président de la Fédération sont les suivantes :
-    1.1 Les élections du Président de la Fédération ont lieu en Décembre de l'année précédant l'année civile où exercera le président élu. La date exacte est fixée par le Président de la Fédération sortant en fonction des disponibilités des membres du Conseil Fédéral.
-    1.2 Tout membre du Conseil Fédéral est électeur et éligible à la présidence de la Fédération. Ce droit ne peut en aucun cas être retiré.
-    1.3 Le Président de la Fédération sortant peut se représenter et il n'y a pas de limite de mandat. Il peut également voter comme n'importe quel autre membre du Conseil Fédéral.
-    1.4 Les candidatures sont déposées au maximum 24 heures avant le début des votes.
-    1.5 Les débats pour les présidentielles sont organisés de manière informelle, aucune règle ne les régit.
-    1.6 Le Président de la Fédération entrant est élu à la majorité absolue. Si cette règle ne permet pas de désigner un nouveau Président, alors un deuxième tour est organisé entre les deux candidats ayant recueilli le plus de suffrages au premier tour. Dans ce dernier cas, le Président est élu à la majorité relative.
-    1.7 Le Président sortant continue d'exercer ses fonctions jusqu'au 31 décembre à 23h59 UTC+1. La passation de pouvoir s'effectue dans la journée du 1er janvier.
-    1.8 En cas de contestation de l'élection, le Conseil des Owners est chargé de décider si l'élection est valable ou non. En cas de non validité, une élection est réorganisée et est supervisée par le Conseil des Owners, qui récupère les pouvoirs du Président de la Fédération en matière d'organisation des élections.
-  2. Les modalités à propos de la désignation des membres du Conseil Fédéral sont les suivantes :
-    2.1 Le Conseil Fédéral est composé des owners des services fédérés ainsi que de tous les membres du service d'administration et de modération de chaque service fédéré.
-    2.2 Tous les ans, le 30 novembre, les owners de chaque service fédéré transmet la liste des personnes faisant partie de son service de modération et d'administration. Un membre est considéré comme faisant partie du service de modération et d'administration à partir du moment où il a les permissions de bannir, expulser, réduire au silence et avertir les utilisateurs du service. En cas de non transmission de cette liste ou de transmission incomplète, l'owner commet une infraction.
-    2.3 Le Président de la Fédération intronise les nouveaux membres du Conseil Fédéral et démet de leurs fonctions les anciens membres au plus tard le 10 décembre. Si à cette date les nouveaux membres du Conseil Fédéral ne sont pas intronisés et les anciens membres déchus, le Président de la Fédération est en infraction.
-  3. Le Conseil des Owners est constitué des owners de tous les services fédérés.
+  5. Les modalités à propos de l'élection du Président de la Fédération sont les suivantes :
+      - Les élections du Président de la Fédération ont lieu en Décembre de l'année précédant l'année civile où exercera le président élu. La date exacte est fixée par le Conseil des Owners en fonction des disponibilités des membres du Conseil Fédéral.
+      - Tout membre du Conseil Fédéral est électeur et éligible à la présidence de la Fédération. Ce droit ne peut en aucun cas être retiré.
+      - Le Président de la Fédération sortant peut se représenter et il n'y a pas de limite de mandat. Il peut également voter comme n'importe quel autre membre du Conseil Fédéral.
+      - Les candidatures sont déposées au maximum 24 heures avant le début des votes.
+      - Les débats pour les présidentielles sont organisés de manière informelle, aucune règle ne les régit.
+      - Le Président de la Fédération entrant est élu à la majorité absolue. Si cette règle ne permet pas de désigner un nouveau Président, alors un deuxième tour est organisé entre les deux candidats ayant recueilli le plus de suffrages au premier tour. Dans ce dernier cas, le Président est élu à la majorité relative.
+      - Le Président sortant continue d'exercer ses fonctions jusqu'au 31 décembre à 23h59 UTC+1. La passation de pouvoir s'effectue dans la journée du 1er janvier.
+      - En cas de contestation de l'élection, le Conseil des Owners est chargé de décider si l'élection est valable ou non. En cas de non validité, une élection est réorganisée et est supervisée par le Conseil des Owners, qui récupère les pouvoirs du Président de la Fédération en matière d'organisation des élections.
+  7. Le Président de la Fédération peut, s'il le juge nécessaire, émettre une décision ciblant l'ensemble de la Fédération ou des instances particulières, appelées décrets. Ces décrets sont encadrés afin d'éviter tout type de débordement :
+      - Ces décrets ne doivent pas rentrer en conflit avec des lois ou décisions fédérales ou des décrets déjà existants. Ils peuvent cependant entrer en conflit avec une décision d'un service fédéré.
+      - Lorsqu'un décret est promulgué, il est appliqué immédiatement. En revanche, le Conseil Fédéral doit approuver par vote le décret au maximum après 7 jours (168 heures) de mise en application, faute de quoi il est automatiquement abrogé.
+      - 
 
 IV - DU CONSEIL FÉDÉRAL DE LA FÉDÉRATION INTERSERVICES D'INFORMATIQUE
   1. Le Conseil Fédéral de la Fédération Interservices d'Informatique a comme dénominations officielles "Conseil Fédéral de la Fédération Interservices d'Informatique", "Conseil Fédéral", "Grand Conseil" ou "Conseil d'Administration". On se réfère à lui dans les textes officiels par l'un de ces termes.
@@ -64,11 +67,27 @@ IV - DU CONSEIL FÉDÉRAL DE LA FÉDÉRATION INTERSERVICES D'INFORMATIQUE
   3. Les lois fédérales s'appliquent obligatoirement à l'ensemble de la Fédération, aucune loi en elle-même ne peut cibler un cas particulier.
   4. Le Conseil Fédéral peut émettre des décisions qui ne prennent pas effet sous forme de lois, ce sont les ordonnances du Conseil Fédéral. Elles peuvent contrairement aux lois cibler spécifiquement un cas particulier.
   5. Le Conseil Fédéral peut légiférer et émettre des décisions sur toute chose dans la Fédération, à l'exception de l'organisation des services de modération et d'administration des services fédérés, ainsi que l'organisation des moyens de communication des services fédérés (comme les canaux si le service fédéré possède plusieurs canaux de communication) et des évènements qu'ils peuvent organiser. En revanche, il peut ordonner à un service de modération de sanctionner un comportement illégal aux yeux des lois françaises et internationales.
-  6. Le Conseil Fédéral peut sanctionner une personne physique faisant partie d'une instance de la Fédération ou une instance de la Fédération elle-même dans le cas où cette personne serait en infraction. Un procès se déroule comme suit :
-    - 5 membres du Conseil Fédéral sont désignés au sort par le Président de la Fédération (ou un membre du Conseil des Owners si le défenseur ou le plaignant est le Président de la Fédération ou si celui-ci a un conflit d'intérêt) en public. Si un membre tiré au sort présente des conflits d'intérêt ou est le plaignant ou le défenseur, alors il est récusé. Il n'y a pas d'autres motifs de récusation possible.
-    - Une ou plusieurs séances sont organisées sous la direction d'un membre du Conseil des Owners. Lorsque la majorité des jurés estime avoir eu assez d'informations et de temps pour voter, un vote est organisé pour savoir si l'accusé est coupable ou non coupable.
-    - Si la peine encourue pour l'infraction est fixée par une loi, alors cette peine doit forcément être appliquée. Sinon, chaque juré peut proposer une peine et chaque juré vote ensuite pour une peine. Celle récoltant le plus de voix est celle appliquée.
+  7. Les modalités à propos de la désignation des membres du Conseil Fédéral sont les suivantes :
+      - Le Conseil Fédéral est composé des owners des services fédérés ainsi que de tous les membres du service d'administration et de modération de chaque service fédéré.
+      - Tous les ans, le 30 novembre, les owners de chaque service fédéré transmet la liste des personnes faisant partie de son service de modération et d'administration. Un membre est considéré comme faisant partie du service de modération et d'administration à partir du moment où il a les permissions de bannir, expulser, réduire au silence et avertir les utilisateurs du service. En cas de non transmission de cette liste ou de transmission incomplète, l'owner commet une infraction.
+      - Le Président de la Fédération intronise les nouveaux membres du Conseil Fédéral et démet de leurs fonctions les anciens membres au plus tard le 10 décembre. Si à cette date les nouveaux membres du Conseil Fédéral ne sont pas intronisés et les anciens membres déchus, le Président de la Fédération est en infraction.
+
+IV - DE LA COMMISSION DE JUGEMENT ET DE CASSATION DE LA FÉDÉRATION INTERSERVICES D'INFORMATIQUE
+  1. Une Commission de Jugement et de Cassation peut sanctionner une personne physique faisant partie d'une instance de la Fédération ou une instance de la Fédération elle-même dans le cas où cette personne ou instance serait en infraction. Un procès se déroule comme suit :
+    - 5 membres du Conseil Fédéral sont désignés au sort par un membre du Conseil des Owners en public. Si un membre tiré au sort est le plaignant ou le défenseur, alors il est récusé. Il n'y a pas d'autres motifs de récusation possible.
+    - Une ou plusieurs séances sont organisées sous la direction d'un membre du Conseil des Owners, différent de celui ayant procédé au tirage au sort. Lorsque la majorité des jurés estime avoir eu assez d'informations et de temps pour voter, un vote est organisé pour savoir si l'accusé est coupable ou non coupable.
+    - Si la peine encourue pour l'infraction est fixée par une loi, alors cette peine doit forcément être appliquée. Sinon, chaque juré peut proposer une peine et un vote est organisé parmi eux pour savoir laquelle sera appliquée.
     - Il est impossible de faire appel d'une décision émise par ce type de jugement et la sentence prend effet immédiatement.
+
+VII - DE LA HIÉRARCHIE DES LOIS APPLICABLES DANS LA FÉDÉRATION INTERSERVICES D'INFORMATIQUE
+  1. La hiérarchie des lois est la suivante au sein de la Fédération Interservices d'Informatique, listée dans l'ordre décroissant hiérarchiquement parlant :
+    - Lois françaises, belges et internationales, et potentiellement de tout pays où pourrait se trouver un utilisateur d'un service fédéré (application des lois de son pays sur lui en cas de besoin).
+    - Code Général de la Fédération.
+    - Lois fédérales.
+    - Décisions fédérales et décrets présidentiels.
+    - Décisions prises par un owner d'un service fédéré pour son service.
+  2. Une exception est faite pour les utilisateurs de 
+
 
 V - DE L'ENTRÉE ET DE LA SORTIE D'UN SERVICE DANS LA FÉDÉRATION INTERSERVICES D'INFORMATIQUE
   1. Voici les conditions requises pour l'entrée d'un service dans la Fédération Interservices d'Informatique.
